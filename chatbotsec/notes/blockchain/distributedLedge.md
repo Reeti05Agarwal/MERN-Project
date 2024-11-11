@@ -1,0 +1,7 @@
+# Distributed ledger
+
+A distributed ledger is a type of database that is consensually **shared**, **replicated**, and **synchronized among** the members of a decentralized network. All the information on this ledger is securely and accurately stored using **cryptography**. This information can be accessed by using keys and cryptographic signatures. The distributed ledger allows transactions to have public **witnesses**, which makes cyberattack more difficult. It records the transactions such as the exchange of assets or data, among the participants in the network.
+
+All the participants in the network govern and agreed-upon consensus on the updates to the records in the ledger. There is no **central authority**, or third-party mediators such as a financial institution or government agencies are involved. Every record in the distributed ledger has a **timestamp** and **unique** cryptographic signature. It makes the ledger an auditable, and immutable history of all transactions in the network.
+
+Further, if any alterations made to the ledger, they are reflected and copied to all participants in seconds or minutes. In other words, when any modifications or updates happen in the ledger, each node constructs the new transaction, and then the nodes **vote by consensus algorithm** on which copy is correct. Once a consensus algorithm has been determined, all the other nodes update themselves with the new and correct copy of the ledger.
